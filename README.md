@@ -1,7 +1,7 @@
 <h1>Open32</h1>
-<p>A tiny esp32 based console.</p>
+<p>A tiny Esp32 based console.</p>
 <h2>What's Open32?</h2>
-<p>The ESP32Console is a small open-source retro game system powered by an ESP32 microcontroller.</p>
+<p>The Esp32Console is a small open-source retro game system powered by an ESP32 microcontroller.</p>
 <h2>How do I connect the console to Wi-Fi?</h2>
 <p>Power it on, connect to the “Open32” network, open the setup page, and enter your Wi-Fi credentials.</p>
 <h2>Does it work without an Internet connection?</h2>
