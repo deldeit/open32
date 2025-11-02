@@ -10,4 +10,3 @@
 <p>Yes. The full firmware and update files are open source and editable in Arduino IDE or PlatformIO.</p>
 <h2>How do I build it?</h2>
 <p>You can build following the scheme provided with your own parts.</p>
-<b>Thanks for reading, enjoy your Open32 console.</b>
