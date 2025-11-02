@@ -9,4 +9,4 @@
 <h2>Can I modify the source code?</h2>
 <p>Yes. The full firmware and update files are open source and editable in Arduino IDE or PlatformIO.</p>
 <h2>How do I build it?</h2>
-<p>You can build following the scheme provided with your own parts.</p>
+<p>You can build it following the scheme provided with your own parts.</p>
