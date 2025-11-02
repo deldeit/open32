@@ -1,2 +1,2 @@
-# open32
-a tiny esp32 based console
+# Open32
+A tiny esp32 based console.
